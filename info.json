@@ -1,11 +1,11 @@
 {
-  "name": "Factorio Revenge of the Explosion",
-  "version": "0.1.0",
+  "name": "factorio-revenge-of-the-explosion",
+  "version": "1.0.0",
   "factorio_version": "1.1",
   "title": "Factorio: Revenge of the Explosion",
   "author": "Leon Watermann",
   "contact": "https://www.leonsdepot.de/impressum.html",
-  "homepage": "https://github.com/Nordmole/Factorio-Revenge-of-the-Explosion",
+  "homepage": "leonsdepot.de",
   "dependencies": ["base"],
   "description": "This is a Fork from madmaster5000 great Mod 'Factorio, Directed by Michael Bay'. Sadly he do not maintain his mod anymore so i deside to fork an revieve his project as a new project"
 }
